@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="missionNumber">12</integer>
+    <array name="missions">
+        <item>@array/mission0</item>
+        <item>@array/mission1</item>
+        <item>@array/mission2</item>
+        <item>@array/mission3</item>
+        <item>@array/mission4</item>
+        <item>@array/mission5</item>
+        <item>@array/mission6</item>
+        <item>@array/mission7</item>
+        <item>@array/mission8</item>
+        <item>@array/mission9</item>
+        <item>@array/mission10</item>
+        <item>@array/mission11</item>
+    </array>
+    <integer-array name="mission0">
+        <item>0</item><item>0</item><item>0</item>
+        <item>0</item><item>1</item><item>1</item>
+        <item>0</item><item>3</item><item>0</item>
+
+        <item>2</item><item>0</item><item>0</item>
+        <item>2</item><item>3</item><item>0</item>
+        <item>2</item><item>1</item><item>3</item>
+
+        <item>1</item><item>1</item><item>2</item>
+        <item>1</item><item>2</item><item>2</item>
+        <item>4</item><item>0</item><item>2</item>
+        <item>4</item><item>3</item><item>2</item>
+    </integer-array>
+    <integer-array name="mission1">
+        <item>0</item><item>0</item><item>0</item>
+        <item>0</item><item>1</item><item>1</item>
+        <item>0</item><item>3</item><item>2</item>
+
+        <item>1</item><item>1</item><item>3</item>
+        <item>1</item><item>3</item><item>0</item>
+        <item>2</item><item>0</item><item>0</item>
+
+        <item>3</item><item>1</item><item>2</item>
+        <item>3</item><item>2</item><item>0</item>
+        <item>3</item><item>3</item><item>2</item>
+        <item>4</item><item>1</item><item>2</item>
+    </integer-array>
+
+    <integer-array name="mission2">
+        <item>0</item><item>0</item><item>3</item>
+        <item>0</item><item>2</item><item>1</item>
+        <item>1</item><item>2</item><item>1</item>
+
+        <item>2</item><item>2</item><item>2</item>
+        <item>2</item><item>3</item><item>2</item>
+
+        <item>3</item><item>0</item><item>0</item>
+        <item>3</item><item>1</item><item>0</item>
+        <item>3</item><item>3</item><item>0</item>
+
+        <item>3</item><item>2</item><item>2</item>
+        <item>4</item><item>2</item><item>2</item>
+    </integer-array>
+
+    <integer-array name="mission3">
+        <item>0</item><item>0</item><item>0</item>
+        <item>0</item><item>1</item><item>3</item>
+        <item>0</item><item>3</item><item>0</item>
+
+        <item>2</item><item>0</item><item>0</item>
+        <item>2</item><item>3</item><item>0</item>
+        <item>2</item><item>1</item><item>1</item>
+
+        <item>3</item><item>1</item><item>2</item>
+        <item>3</item><item>2</item><item>2</item>
+        <item>4</item><item>0</item><item>2</item>
+        <item>4</item><item>3</item><item>2</item>
+    </integer-array>
+
+    <integer-array name="mission4">
+        <item>0</item><item>0</item><item>0</item>
+        <item>0</item><item>1</item><item>0</item>
+        <item>0</item><item>3</item><item>0</item>
+
+        <item>2</item><item>0</item><item>0</item>
+        <item>2</item><item>1</item><item>0</item>
+        <item>2</item><item>2</item><item>3</item>
+
+        <item>4</item><item>0</item><item>2</item>
+        <item>4</item><item>1</item><item>2</item>
+        <item>4</item><item>2</item><item>2</item>
+        <item>4</item><item>3</item><item>2</item>
+    </integer-array>
+
+    <integer-array name="mission5">
+        <item>0</item><item>0</item><item>2</item>
+        <item>0</item><item>1</item><item>2</item>
+        <item>0</item><item>2</item><item>3</item>
+
+        <item>1</item><item>0</item><item>1</item>
+        <item>2</item><item>0</item><item>1</item>
+        <item>2</item><item>2</item><item>1</item>
+        <item>3</item><item>0</item><item>1</item>
+        <item>3</item><item>2</item><item>1</item>
+
+        <item>4</item><item>2</item><item>2</item>
+        <item>4</item><item>3</item><item>2</item>
+    </integer-array>
+
+
+    <integer-array name="mission6">
+        <item>0</item><item>0</item><item>2</item>
+        <item>0</item><item>1</item><item>3</item>
+        <item>1</item><item>0</item><item>2</item>
+
+        <item>2</item><item>0</item><item>1</item>
+        <item>2</item><item>2</item><item>1</item>
+
+        <item>3</item><item>0</item><item>0</item>
+        <item>3</item><item>1</item><item>0</item>
+        <item>3</item><item>2</item><item>2</item>
+        <item>3</item><item>3</item><item>2</item>
+
+        <item>4</item><item>2</item><item>1</item>
+    </integer-array>
+
+    <integer-array name="mission7">
+        <item>0</item><item>0</item><item>3</item>
+        <item>0</item><item>2</item><item>1</item>
+        <item>1</item><item>2</item><item>1</item>
+
+        <item>2</item><item>0</item><item>1</item>
+        <item>2</item><item>2</item><item>2</item>
+        <item>2</item><item>3</item><item>2</item>
+
+        <item>3</item><item>1</item><item>0</item>
+
+        <item>3</item><item>2</item><item>1</item>
+        <item>4</item><item>2</item><item>2</item>
+        <item>4</item><item>3</item><item>2</item>
+    </integer-array>
+
+    <integer-array name="mission8">
+        <item>0</item><item>0</item><item>1</item>
+        <item>0</item><item>2</item><item>1</item>
+        <item>1</item><item>0</item><item>3</item>
+        <item>1</item><item>2</item><item>1</item>
+
+        <item>2</item><item>2</item><item>2</item>
+        <item>2</item><item>3</item><item>2</item>
+
+        <item>3</item><item>0</item><item>0</item>
+
+        <item>3</item><item>2</item><item>1</item>
+        <item>4</item><item>2</item><item>2</item>
+        <item>4</item><item>3</item><item>2</item>
+    </integer-array>
+
+    <integer-array name="mission9">
+        <item>0</item><item>1</item><item>3</item>
+        <item>1</item><item>0</item><item>2</item>
+        <item>1</item><item>3</item><item>0</item>
+        <item>2</item><item>0</item><item>0</item>
+
+        <item>2</item><item>1</item><item>2</item>
+        <item>2</item><item>2</item><item>0</item>
+
+        <item>3</item><item>1</item><item>0</item>
+
+        <item>3</item><item>3</item><item>2</item>
+        <item>4</item><item>0</item><item>2</item>
+        <item>4</item><item>2</item><item>2</item>
+        <item>4</item><item>3</item><item>2</item>
+    </integer-array>
+
+    <integer-array name="mission10">
+        <item>0</item><item>0</item><item>0</item>
+        <item>0</item><item>1</item><item>3</item>
+        <item>0</item><item>3</item><item>2</item>
+        <item>1</item><item>3</item><item>2</item>
+
+        <item>2</item><item>0</item><item>0</item>
+        <item>2</item><item>1</item><item>0</item>
+        <item>2</item><item>2</item><item>0</item>
+        <item>2</item><item>3</item><item>2</item>
+        <item>3</item><item>3</item><item>2</item>
+
+        <item>4</item><item>1</item><item>1</item>
+    </integer-array>
+
+    <integer-array name="mission11">
+        <item>0</item><item>0</item><item>0</item>
+        <item>0</item><item>2</item><item>3</item>
+        <item>1</item><item>1</item><item>2</item>
+
+        <item>2</item><item>0</item><item>1</item>
+        <item>2</item><item>2</item><item>2</item>
+        <item>2</item><item>3</item><item>0</item>
+
+        <item>3</item><item>0</item><item>1</item>
+        <item>3</item><item>2</item><item>2</item>
+
+        <item>4</item><item>1</item><item>2</item>
+        <item>4</item><item>2</item><item>1</item>
+    </integer-array>
+
+</resources>

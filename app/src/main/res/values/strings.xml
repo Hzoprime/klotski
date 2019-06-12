@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">华容道</string>
+<string name="main_game_button_text">开始游戏</string>
+<string name="choosing_mission_string">关卡选择</string>
+<string name="game_title">第1关</string>
+<string name="to_last_mission">返回上一关</string>
+<string name="restart_this_mission">重置该关卡</string>
+<string name="to_next_mission">进入下一关</string>
+<string name="default_timer">00:00</string>
+<string name="default_step">0步</string>
+</resources>
